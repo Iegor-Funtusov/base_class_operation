@@ -26,8 +26,6 @@ public class Mars extends BasePlanet {
         return 4;
     }
 
-    public void skyNlo() {}
-
     @Override
     public String toString() {
         return "Mars{}";
